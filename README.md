@@ -5,17 +5,17 @@ permalink: /about
 ---
 ## 开始
 
-1. Fork [wu-kan/wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io/fork)到你的仓库，并在设置里开启gh-pages
+1. Fork [hou-xiaoliang/hou-xiaoliang.github.io](https://github.com/hou-xiaoliang/hou-xiaoliang.github.io/fork)到你的仓库，并在设置里开启gh-pages
 2. 修改`_config.yml`为你自己的信息
 3. 删除`_post/`下的博文和`public/image/`文件夹下的图片，开始写你自己的文章
-4. 详细配置可以参见[这篇博文](https://wu-kan.github.io/posts/博客搭建/基于Jekyll搭建个人博客)
-5. 欢迎<a class="github-button" aria-label="Star wu-kan/wu-kan.github.io on GitHub" href="https://github.com/wu-kan/wu-kan.github.io" data-icon="octicon-star" data-show-count="true">Star</a><a class="github-button" aria-label="Fork wu-kan/wu-kan.github.io on GitHub" href="https://github.com/wu-kan/wu-kan.github.io/fork" data-icon="octicon-repo-forked" data-show-count="true">Fork</a><a class="github-button" aria-label="Issue wu-kan/wu-kan.github.io on GitHub" href="https://github.com/wu-kan/wu-kan.github.io/issues" data-icon="octicon-issue-opened" data-show-count="true">Issue</a>
+4. 详细配置可以参见[这篇博文](https://hou-xiaoliang.github.io/posts/博客搭建/基于Jekyll搭建个人博客)
+5. 欢迎<a class="github-button" aria-label="Star hou-xiaoliang/hou-xiaoliang.github.io on GitHub" href="https://github.com/hou-xiaoliang/hou-xiaoliang.github.io" data-icon="octicon-star" data-show-count="true">Star</a><a class="github-button" aria-label="Fork hou-xiaoliang/hou-xiaoliang.github.io on GitHub" href="https://github.com/hou-xiaoliang/hou-xiaoliang.github.io/fork" data-icon="octicon-repo-forked" data-show-count="true">Fork</a><a class="github-button" aria-label="Issue hou-xiaoliang/hou-xiaoliang.github.io on GitHub" href="https://github.com/hou-xiaoliang/hou-xiaoliang.github.io/issues" data-icon="octicon-issue-opened" data-show-count="true">Issue</a>
 
 ## 声明
 
 除特别声明或转载外，所有博文采用[署名-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)协议进行许可。
 
-博客基于[MIT License](https://github.com/wu-kan/wu-kan.github.io/blob/master/LICENSE)开源于[GitHub](https://github.com/wu-kan/wu-kan.github.io)。
+博客基于[MIT License](https://github.com/hou-xiaoliang/hou-xiaoliang.github.io/blob/master/LICENSE)开源于[GitHub](https://github.com/hou-xiaoliang/hou-xiaoliang.github.io)。
 
 ## 致谢
 
