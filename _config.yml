@@ -244,10 +244,7 @@ sidebar:
     hour: 时
     minute: 分
     second: 秒
-  copyright:
-    enable: true
-    text: '<script async defer src="https://buttons.github.io/buttons.js"></script><a class="github-button" aria-label="Star hou-xiaoliang/hou-xiaoliang.github.io on GitHub" href="https://github.com/hou-xiaoliang/hou-xiaoliang.github.io" data-icon="octicon-star" data-show-count="true">Star</a>'
-
+  
 index:
   showtag:
 
@@ -285,7 +282,7 @@ valine:
   placeholder: 在这里评论吧！
   visitor: true # 文章访问量统计
   highlight: true # 代码高亮
-  avatarForce: false # 每次访问强制拉取最新的评论列表头像
+  avatarForce: teur # 每次访问强制拉取最新的评论列表头像
   recordIP: true # 记录评论者IP
 
 page404:
