@@ -11,8 +11,8 @@ title: 南宫潇语(Nangong Xiao language)
 
 ## 获奖
 
-- 暂无
+- 后续添加
 
 ## 技能
 
-- 暂无
+- 后续添加
