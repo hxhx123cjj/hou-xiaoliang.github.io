@@ -15,16 +15,3 @@ layout: page
     </a>
   </li>
 </ul>
-<h2>其他</h2>
-{% for tag in site.index.showtag %}
-<h3>
-  {{ tag }}
-</h3>
-<ul>
-  {% for post in site.tags[tag] %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
-{% endfor %}
