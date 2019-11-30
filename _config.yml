@@ -247,7 +247,7 @@ sidebar:
     second: 秒
   copyright:
     enable: true
-    text: '<script async defer src="https://buttons.github.io/buttons.js"></script><a data-show-count="true"></a>' '<iframe frameborder="no" loop="true" hidden="false" marginwidth="0" marginheight="0" width=200 height=66 src="https://i.y.qq.com/v8/playsong.html?ADTAG=cbshare&_wv=1&appshare=android_qq&appsongtype=1&appversion=9070002&channelId=10036163&hosteuin=Ne4FoKvkoevq&openinqqmusic=1&platform=11&songmid=004W14so0h56jm&type=0"></iframe>'
+    text: '<script async defer src="https://buttons.github.io/buttons.js"></script><a data-show-count="true"></a><iframe frameborder="no" loop="true" hidden="false" marginwidth="0" marginheight="0" width=200 height=66 src="https://i.y.qq.com/v8/playsong.html?ADTAG=cbshare&_wv=1&appshare=android_qq&appsongtype=1&appversion=9070002&channelId=10036163&hosteuin=Ne4FoKvkoevq&openinqqmusic=1&platform=11&songmid=004W14so0h56jm&type=0"></iframe>'
 
 index:
   showtag:
