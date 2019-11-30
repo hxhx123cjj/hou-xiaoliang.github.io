@@ -24,12 +24,12 @@ categories:
 - 广播（broadcast）：一对所有的通信方式
 
 点到点网络：
-src: //img-blog.csdn.net/20180414175702403?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70
+https://img-blog.csdn.net/20180414175702403?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70
 
 多路访问网络：
-src: //img-blog.csdn.net/20180414175715997?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70
+https://img-blog.csdn.net/20180414175715997?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70
 
-src: //img-blog.csdn.net/20180612143336330?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70
+https://img-blog.csdn.net/20180612143336330?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70
 四个，ABE共享链路为一个直连网，BC点到点连接为一个直连网，CDF共享链路为一个，FG点到点连接为一个，共四个直连网。
 
 ### 间接连接的网络
@@ -120,9 +120,9 @@ ISP ( Internet Service Provider)，即因特网服务提供商。顶层ISP也称
 - 数据链路层：在物理网络中传送包（跳到跳，hop-to-hop节点到节点node-to-node），ppp，Ethernet
 - 物理层：线上的比特（传送原始比特流）
 
-src: //img-blog.csdn.net/20180414183619601?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70
-src: //img-blog.csdn.net/20180414183302835?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70
-src: //img-blog.csdn.net/20180414183658571?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70
+https://img-blog.csdn.net/20180414183619601?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70
+https://img-blog.csdn.net/20180414183302835?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70
+https://img-blog.csdn.net/20180414183658571?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70
 
 - 每一层都可以有多个协议，每个协议都可以使用下层提供的服务并为上层提供服务。
 - 同一个互连网络中要求网络层协议相同而链路层协议可以不同
@@ -140,7 +140,7 @@ src: //img-blog.csdn.net/20180414183658571?watermark/2/text/aHR0cHM6Ly9ibG9nLmNz
 
 ### 网络性能分析：延迟和丢包
 
-![7](src: //img-blog.csdn.net/2018061123060934?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![7](https://img-blog.csdn.net/2018061123060934?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 当一个包到达时如果有空闲缓存则排队等待转发，产生延迟(delay)。如果没有空闲缓存，则丢弃该包，造成丢失 (loss)
 
@@ -157,7 +157,7 @@ src: //img-blog.csdn.net/20180414183658571?watermark/2/text/aHR0cHM6Ly9ibG9nLmNz
 3. 传输延迟（transmission delay）
    - 包长（bits）/链路带宽（bps），也称为发送延迟
 4. 传播延迟（propagation delay）
-   - 物理链路长度/信号传播速度（~2*10^8m/sec)![9](src: //img-blog.csdn.net/20180414184300252?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+   - 物理链路长度/信号传播速度（~2*10^8m/sec)![9](https://img-blog.csdn.net/20180414184300252?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L04xbmVEaW5n/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 ### 带宽和吞吐量
 
