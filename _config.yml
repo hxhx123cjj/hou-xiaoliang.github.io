@@ -179,7 +179,7 @@ sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
     img: http://q1.qlogo.cn/g?b=qq&nk=858145049&s=100 # 头像的地址
-    info: 个人:男 19岁<br/>爱好:音乐 阅读 计算机<br/>现专业方向:机械自动化<br/>计划未来专业方向:医学</br>背景音乐:古风歌单 # 头像背后的信息
+    info: 个人:男 19岁<br/>爱好:音乐 阅读 计算机<br/>现专业方向:机械自动化<br/>计划未来专业方向:医学</br>背景音乐:古风类 # 头像背后的信息
   description: '<iframe frameborder="no" hidden="true" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=2357742963&auto=1&height=430"></iframe>'
   social:
   - title: ベ浮生若梦ミ(QQ) # qq
