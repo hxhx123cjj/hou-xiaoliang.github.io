@@ -270,7 +270,7 @@ post:
     copyright: '<i class="fab fa-creative-commons"></i> <a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/deed.zh">BY-SA 4.0</a>（除特别声明或转载文章外）'
   reward:
     enable: true
-    text: 如果这篇博客帮助到你，可以请我喝一杯咖啡~
+    text: 如果这篇博客帮助到你，可以请我喝一杯蓝莓味饮品~
     img: # 万一真的有人打赏呢~
     - id: QQ 微信 支付宝
       src: http://m.qpic.cn/psb?/V12OcibK4L4khf/VkqLcCYSDDPVmE75A.sFWaz64eukSRdfg20pCZtH7rg!/b/dLYAAAAAAAAA&bo=IAP0ASAD9AERBzA!&rf=viewer_4
