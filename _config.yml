@@ -276,7 +276,20 @@ post:
       src: http://m.qpic.cn/psb?/V12OcibK4L4khf/VkqLcCYSDDPVmE75A.sFWaz64eukSRdfg20pCZtH7rg!/b/dLYAAAAAAAAA&bo=IAP0ASAD9AERBzA!&rf=viewer_4
 
 #留言代码接此处 
-
+valine:
+  enable: true
+  autoloader: /public/js/valine.js
+  src: //cdn.jsdelivr.net/npm/valine
+  appId: P1280wyF3MS7d4e8G9d8Rdkc-gzGzoHsz
+  appKey: aMXLal5aPopouFYxMWuPVIgE
+  notify: true # 评论回复邮件提醒
+  verify: true # 验证码服务
+  avatar: identicon
+  placeholder: 在这里评论吧！
+  visitor: true # 文章访问量统计
+  highlight: true # 代码高亮
+  avatarForce: false # 每次访问强制拉取最新的评论列表头像
+  recordIP: true # 记录评论者IP
 
 page404:
   search_children: # 腾讯公益
