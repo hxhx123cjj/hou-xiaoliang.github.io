@@ -286,7 +286,8 @@ valine:
   avatar: identicon
   placeholder: 在这里评论吧！
   visitor: true # 文章访问量统计
-
+  highlight: true # 代码高亮
+  avatarForce: false # 每次访问强制拉取最新的评论列表头像
 
 page404:
   search_children: # 腾讯公益
