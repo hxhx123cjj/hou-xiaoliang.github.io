@@ -275,17 +275,7 @@ post:
     - id: QQ 微信 支付宝
       src: http://m.qpic.cn/psb?/V12OcibK4L4khf/VkqLcCYSDDPVmE75A.sFWaz64eukSRdfg20pCZtH7rg!/b/dLYAAAAAAAAA&bo=IAP0ASAD9AERBzA!&rf=viewer_4
 
-valine:
-  enable: true
-  autoloader: /public/js/valine.js
-  src: //cdn.jsdelivr.net/npm/valine
-  appId: 9hABRddSuEkTgqLrt1VSK5B1-gzGzoHsz
-  appKey: NJ7RwmgrxsF7KDzlqU7YewlL
-  notify: true # 评论回复邮件提醒
-  verify: true # 验证码服务
-  avatar: identicon
-  placeholder: 在这里评论吧！
-  visitor: true # 文章访问量统计
+#留言代码接此处
 
 
 page404:
