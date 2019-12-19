@@ -56,7 +56,7 @@ function loadStyle(url) {
           Prism.plugins.toolbar.registerButton('select-code', function (env) {
             var button = document.createElement('button');
             button.innerHTML = 'select this ' + env.language;
-            button.addEventListener('click', function (copy) {
+            button.addEventListener('click', function () {
               // Source: http://stackoverflow.com/a/11128179/2757940
               if (document.body.createTextRange) { // ms
                 var range = document.body.createTextRange();
