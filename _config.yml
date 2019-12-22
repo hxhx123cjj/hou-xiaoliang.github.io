@@ -193,8 +193,8 @@ sidebar:
   - title: ベ浮生若梦ミ(酷安) #酷安
     href: https://www.coolapk.com/u/2663359?from=qr
     class: 'fas fa-rss fa-fw'
-  - title: github(博客) #博客主页
-    href: https://hou-xiaoliang.github.io
+  - title: github(博客) #博客
+    href: https://github.com/hou-xiaoliang/hou-xiaoliang.github.io.git
     class: 'fab fa-github fa-fw'
   - title: 南宫瀟語(谷歌邮箱:hxllkm@gmail.com) # email
     class: 'fas fa-envelope fa-fw'
