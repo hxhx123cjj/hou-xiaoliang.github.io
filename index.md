@@ -1,6 +1,6 @@
 ---
 layout: index
-title: 南宫潇语(Nangong Xiao language)
+title: 南宫潇语
 ---
 
 ## 教育
