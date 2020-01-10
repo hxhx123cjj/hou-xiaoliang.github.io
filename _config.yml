@@ -179,14 +179,12 @@ sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
     img: http://q1.qlogo.cn/g?b=qq&nk=858145049&s=100 # 头像的地址
-    info: 个人:男 19岁<br/>爱好:音乐 阅读 计算机<br/>现专业方向:机械自动化<br/>计划未来专业方向:医学</br>背景音乐:古风类 # 头像背后的信息
-  description: '<iframe frameborder="no" hidden="true" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=0&id=2357742963&auto=1&height=430"></iframe>'
+    info: 个人:男 19岁<br/>爱好:音乐 阅读 计算机<br/>现专业方向:机械自动化<br/>计划未来专业方向:医学</br>背景音乐:羡慕-许嵩? # 头像背后的信息
+  description: '<iframe frameborder="no" hidden="true" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/song/media/outer/url?id=1413377028&auto=1&height=430"></iframe>'
   social:
   - title: ベ梦殇ミ(QQ) # qq
     href: https://qm.qq.com/cgi-bin/qm/qr?k=bNkxvWNAzywzi9PlQ-_TvPreuB-Bngm6
     class: 'fab fa-qq fa-fw' 
-  - title: ベ梦殇ミ(微信:16685684220) # weixin
-    class: 'fab fa-weixin fa-fw'
   - title: 念尘(知乎) #知乎
     href: https://www.zhihu.com/people/qi-wei-yi-72/activities
     class: 'fab fa-zhihu fa-fw'
@@ -196,8 +194,6 @@ sidebar:
   - title: github(博客) #博客
     href: https://github.com/hou-xiaoliang/hou-xiaoliang.github.io.git
     class: 'fab fa-github fa-fw'
-  - title: ベ梦殇ミ(谷歌邮箱:hxllkm@gmail.com) # email
-    class: 'fas fa-envelope fa-fw'
   nav:
   - title: '<i class="fas fa-home fa-fw"></i> 首页'
     href: /
