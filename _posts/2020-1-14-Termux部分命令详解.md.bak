@@ -5,7 +5,8 @@ categories:
 ---
 
 安装Termux后先进入输入:
+
 修复底栏:
-''''
-mkdir $HOME/.termux;echo "extra-keys = [['ESC','/','-','cd /sdcard/zd','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]" >> $HOME/.termux/termux.properties && exit '
-''''
+````
+mkdir $HOME/.termux;echo "extra-keys = [['ESC','/','-','cd /sdcard/zd','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]" >> $HOME/.termux/termux.properties && exit
+````
